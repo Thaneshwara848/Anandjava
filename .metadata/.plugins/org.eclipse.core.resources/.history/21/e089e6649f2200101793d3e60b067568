@@ -1,0 +1,16 @@
+package com.example.demo.model;
+
+import java.util.Objects;
+
+public class Product {
+	
+	private int pid;
+	private String pname;
+	private int price;
+	private String description;
+	
+	
+	
+	
+
+}
